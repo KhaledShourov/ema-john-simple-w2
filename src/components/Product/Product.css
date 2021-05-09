@@ -10,3 +10,12 @@
   font-weight: 600;
   margin-left: 10px;
 }
+.main-btn{
+  background-color: goldenrod;
+  width: 150px;
+  height: 30px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  color: black;
+  cursor: pointer;
+}
